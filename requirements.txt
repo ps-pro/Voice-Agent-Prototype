@@ -1,0 +1,7 @@
+livekit-agents~=1.4
+livekit-agents[elevenlabs]~=1.4
+livekit-agents[silero]~=1.4
+livekit-plugins-turn-detector~=1.4
+livekit-api>=1.0.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
